@@ -11,12 +11,12 @@ About
 Files
 ------------------------------------------------------------
 
-chris.c  - main source code file
+demo23.c  - main source code file
 build.sh - shell script to compile the code
 
 model/diablo3_pose.obj - the diablo model that is rendered
 model/gen.py           - script that processes the obj file
-model/model.c          - output from gen.py, included into chris.c
+model/model.c          - output from gen.py, included into demo23.c
 
 model/texture/diablo3_pose_diffuse.tga - texture image
 model/texture/main.cpp                 - processes the tga file 
